@@ -72,8 +72,9 @@ $baseurl: '{{ site.baseurl }}/images';
 	}
 
 	.major p {
-		margin-left: 25%;
-		margin-right: 25%;
+		margin-left: 10%;
+		margin-right: 10%;
+		text-align: middle;
 	} 
 
 	a {
